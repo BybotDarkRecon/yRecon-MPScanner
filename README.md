@@ -105,16 +105,15 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 ---
 
 📋 Requisitos
-`
 
-· 🐍 Python 3.8 ou superior
+> · 🐍 Python 3.8 ou superior
+>
+> · 📦 aiohttp - Cliente HTTP assíncrono
+>
+> · 🔧 dnspython - Resolução de DNS
+>
+> · ⚡ asyncio - Concorrência assíncrona
 
-· 📦 aiohttp - Cliente HTTP assíncrono
-
-· 🔧 dnspython - Resolução de DNS
-
-· ⚡ asyncio - Concorrência assíncrona
-`
 ***
 ## ⚠️ Aviso Legal
 
@@ -124,18 +123,6 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 ` ​⚠️ ATENÇÃO: Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes de segurança autorizados. `
 
 
-
-
-
-
-
-
-​✅ Use APENAS em sistemas e redes onde você possui permissão explícita e por escrito.
-
-
-​❌ O uso não autorizado em redes de terceiros é ILEGAL.
-
-
-​👨‍⚖️ O autor não se responsabiliza por quaisquer danos ou mau uso desta ferramenta.
+` ​👨‍⚖️ O autor não se responsabiliza por quaisquer danos ou mau uso desta ferramenta. `
 
 
