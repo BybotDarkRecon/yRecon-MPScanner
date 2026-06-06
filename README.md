@@ -40,9 +40,8 @@ python3 yrecon.py
 
 
 
-
-
-```Opção | Tipo | Exemplo
+```
+Opção | Tipo | Exemplo
 1     | IP único | 192.168.1.1
 2     | Domínio  | google.com
 3     | URL      | https://exemplo.com
