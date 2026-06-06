@@ -32,69 +32,74 @@ pip install -r requirements.txt
 python3 yrecon.py
 ```
 
-🚀 Uso Rápido
+🚀 Como Usar
 
 ```bash
-# Escanear um IP
 python3 yrecon.py
-> Opção 1
-> 192.168.1.1
-
-# Escanear um domínio
-> Opção 2
-> google.com
-
-# Escanear uma URL
-> Opção 3
-> https://exemplo.com
 ```
+
+Opção Tipo Exemplo
+1 IP único 192.168.1.1
+2 Domínio google.com
+3 URL https://exemplo.com
+4 Range de IPs 192.168.1.1-192.168.1.255
+5 Lista de arquivo targets.txt
+
+---
 
 📊 Exemplo de Saída
 
 ```
 [+] PORTA 22 ABERTA - SSH
     📜 Banner: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5
+    ⚠️ VULN: Weak SSH Config
+
 [+] PORTA 80 ABERTA - HTTP
     📜 Banner: Apache/2.4.41 (Ubuntu)
+
 [+] PORTA 443 ABERTA - HTTPS
     📜 Banner: nginx/1.18.0
+
+============================================================
+📊 RELATÓRIO FINAL
+============================================================
+📍 Alvo: google.com
+🔍 IP: 142.250.217.46
+⏱️  Tempo: 12.34s
+🔌 Portas TCP abertas: 4
+📡 Portas UDP abertas: 2
+🛡️ Firewall: NÃO DETECTADO
+
+✅ PORTAS TCP ABERTAS:
+   🔓    22 - SSH
+   🔓    80 - HTTP
+   🔓   443 - HTTPS
+   🔓  8080 - HTTP-PROXY
 ```
+
+---
 
 📁 Arquivos de Saída
 
-Arquivo       Formato   Descrição
-scan_alvo.json  JSON    Dados completos em JSON
-scan_alvo.csv   CSV     Tabela de portas abertas
-scan_alvo.html  HTML    Relatório visual interativo
+Arquivo Formato Descrição
+scan_alvo.json JSON Dados completos do scan em JSON
+scan_alvo.csv CSV Tabela de portas abertas para Excel
+scan_alvo.html HTML Relatório visual interativo com gráficos
+
+---
 
 🛡️ Funcionalidades de Segurança
 
-· Stealth Mode ativado por padrão
+· 🎭 Stealth Mode - Ativado por padrão, evita detecção
+· 🎲 Decoy IPs - Rotação de IPs falsos para mascarar origem
+· ⏱️ Delay Adaptativo - Ajusta automaticamente para não sobrecarregar
+· 🔥 Firewall Detection - Detecta firewalls e WAFs automaticamente
 
-· Decoy IPs para evitar bloqueio
-
-· Delay adaptativo para não sobrecarregar
-
-· Detecção de firewall automática
+---
 
 📋 Requisitos
 
-· Python 3.8+
-
-· aiohttp
-
-· dnspython
-
-· asyncio
-
-⚠️ Aviso Legal
-
-Esta ferramenta é para fins educacionais e testes de segurança autorizados apenas. O uso não autorizado é ilegal. O autor não se responsabiliza por mau uso.
-
-📄 Licença
-
-MIT License
-
-👤 Autor
-
-· BybotDarkRecon - GitHub
+· 🐍 Python 3.8 ou superior
+· 📦 aiohttp - Cliente HTTP assíncrono
+· 🔧 dnspython - Resolução de DNS
+· ⚡ asyncio - Concorrência assíncrona
