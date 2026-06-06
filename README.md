@@ -115,12 +115,13 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 
 · ⚡ asyncio - Concorrência assíncrona
 `
+***
 ⚠️ Aviso Legal
 
 
 
 
-​⚠️ ATENÇÃO: Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes de segurança autorizados.
+` ​⚠️ ATENÇÃO: Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes de segurança autorizados. `
 
 
 
