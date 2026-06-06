@@ -22,7 +22,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/yRecon-MPScanner.git
+git clone https://github.com/BybotDarkRecon/yRecon-MPScanner.git
 cd yRecon-MPScanner
 
 # Instale as dependências
@@ -62,23 +62,29 @@ python3 yrecon.py
 
 📁 Arquivos de Saída
 
-Arquivo Formato Descrição
-scan_alvo.json JSON Dados completos em JSON
-scan_alvo.csv CSV Tabela de portas abertas
-scan_alvo.html HTML Relatório visual interativo
+Arquivo       Formato   Descrição
+scan_alvo.json  JSON    Dados completos em JSON
+scan_alvo.csv   CSV     Tabela de portas abertas
+scan_alvo.html  HTML    Relatório visual interativo
 
 🛡️ Funcionalidades de Segurança
 
 · Stealth Mode ativado por padrão
+
 · Decoy IPs para evitar bloqueio
+
 · Delay adaptativo para não sobrecarregar
+
 · Detecção de firewall automática
 
 📋 Requisitos
 
 · Python 3.8+
+
 · aiohttp
+
 · dnspython
+
 · asyncio
 
 ⚠️ Aviso Legal
@@ -87,8 +93,8 @@ Esta ferramenta é para fins educacionais e testes de segurança autorizados ape
 
 📄 Licença
 
-MIT License - veja o arquivo LICENSE
+MIT License
 
 👤 Autor
 
-· yRecon - GitHub
+· BybotDarkRecon - GitHub
