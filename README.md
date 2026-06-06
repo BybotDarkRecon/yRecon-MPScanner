@@ -106,6 +106,7 @@ scan_alvo.html HTML Relatório visual interativo com gráficos
 
 📋 Requisitos
 `
+
 · 🐍 Python 3.8 ou superior
 
 · 📦 aiohttp - Cliente HTTP assíncrono
