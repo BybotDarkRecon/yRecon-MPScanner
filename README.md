@@ -93,6 +93,8 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 
 ---
 
+![Exemplo HTML:](https://only-black-isq37gkd.edgeone.app/Screenshot_20260605_143005_Spck%20Editor.jpg)
+
 ## 🛡️ Funcionalidades de Segurança
 
 
