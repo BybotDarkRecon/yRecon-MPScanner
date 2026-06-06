@@ -42,108 +42,12 @@ python3 yrecon.py
 
 
 
-Opção
-
-
-
-
-Tipo
-
-
-
-
-Exemplo
-
-
-
-
-
-
-1
-
-
-
-
-IP único
-
-
-
-
-192.168.1.1
-
-
-
-
-
-
-2
-
-
-
-
-Domínio
-
-
-
-
-google.com
-
-
-
-
-
-
-3
-
-
-
-
-URL
-
-
-
-
-https://exemplo.com
-
-
-
-
-
-
-4
-
-
-
-
-Range de IPs
-
-
-
-
-192.168.1.1-192.168.1.255
-
-
-
-
-
-
-5
-
-
-
-
-Lista de arquivo
-
-
-
-
-targets.txt
-
-
-
-
-
-
+Opção | Tipo | Exemplo
+1     | IP único | 192.168.1.1
+2     | Domínio  | google.com
+3     | URL      | https://exemplo.com
+4     | Range de IPs |192.168.1.1-192.168.1.255
+5     | Lista de arquivo |targets.txt
 ---
 
 📊 Exemplo de Saída
