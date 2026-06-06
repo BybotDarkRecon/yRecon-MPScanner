@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python3 yrecon.py
 ```
 
-🚀 Como Usar
+## 🚀 Como Usar
 
 ```bash
 python3 yrecon.py
@@ -51,7 +51,7 @@ Opção | Tipo | Exemplo
 
 ---
 
-📊 Exemplo de Saída
+## 📊 Exemplo de Saída
 
 ```
 [+] PORTA 22 ABERTA - SSH
@@ -83,7 +83,7 @@ Opção | Tipo | Exemplo
 
 ---
 
-📁 Arquivos de Saída
+## 📁 Arquivos de Saída
 
 Arquivo  | Formato | Descrição
 -------- | ------- | ---------
@@ -93,16 +93,16 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 
 ---
 
-🛡️ Funcionalidades de Segurança
+## 🛡️ Funcionalidades de Segurança
 
 
-· 🎭 Stealth Mode - Ativado por padrão, evita detecção
+` · 🎭 Stealth Mode - Ativado por padrão, evita detecção `
 
-· 🎲 Decoy IPs - Rotação de IPs falsos para mascarar origem
+` · 🎲 Decoy IPs - Rotação de IPs falsos para mascarar origem `
 
-· ⏱️ Delay Adaptativo - Ajusta automaticamente para não sobrecarregar
+` · ⏱️ Delay Adaptativo - Ajusta automaticamente para não sobrecarregar `
 
-· 🔥 Firewall Detection - Detecta firewalls e WAFs automaticamente
+` · 🔥 Firewall Detection - Detecta firewalls e WAFs automaticamente `
 
 ---
 
