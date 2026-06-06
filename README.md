@@ -92,10 +92,13 @@ scan_alvo.html HTML Relatório visual interativo com gráficos
 ---
 
 🛡️ Funcionalidades de Segurança
-
+`
 · 🎭 Stealth Mode - Ativado por padrão, evita detecção
+
 · 🎲 Decoy IPs - Rotação de IPs falsos para mascarar origem
+
 · ⏱️ Delay Adaptativo - Ajusta automaticamente para não sobrecarregar
+
 · 🔥 Firewall Detection - Detecta firewalls e WAFs automaticamente
 
 ---
@@ -103,7 +106,10 @@ scan_alvo.html HTML Relatório visual interativo com gráficos
 📋 Requisitos
 `
 · 🐍 Python 3.8 ou superior
+
 · 📦 aiohttp - Cliente HTTP assíncrono
+
 · 🔧 dnspython - Resolução de DNS
+
 · ⚡ asyncio - Concorrência assíncrona
 `
