@@ -95,7 +95,7 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 ## Exemplo Csv:
 ![Exemplo Csv:](https://voluminous-amber-o93ddjip.edgeone.app/Screenshot_20260607_015301_CSV%20Reader.jpg)
 
-## Exemplo Json
+## Exemplo Json:
 ![Exemplo Json:](https://renewed-gray-subcopup.edgeone.app/Screenshot_20260607_014859_Termux.jpg)
 
 ## 🛡️ Funcionalidades de Segurança
@@ -124,7 +124,7 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 ***
 ## ⚠️ Aviso Legal
 
-### ` Observou algum erro, algum bug, quiser dar sugestões de funções pode enviar tudo para este e-mail: bybot.darkrecon@gmail.com `
+#### ` Observou algum erro, algum bug, quiser dar sugestões de funções, pode enviar tudo para este e-mail: bybot.darkrecon@gmail.com `
 
 
 ` ​⚠️ ATENÇÃO: Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes de segurança autorizados. `
