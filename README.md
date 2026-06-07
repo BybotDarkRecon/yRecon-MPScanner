@@ -29,13 +29,13 @@ cd yRecon-MPScanner
 pip install -r requirements.txt
 
 # Execute
-python3 yrecon.py
+python3 mpscanner.py
 ```
 
 ## 🚀 Como Usar
 
 ```bash
-python3 yrecon.py
+python3 mpscanner.py
 ```
 
 
@@ -46,9 +46,6 @@ Opção | Tipo | Exemplo
 1     | IP único | 192.168.1.1
 2     | Domínio  | google.com
 3     | URL      | https://exemplo.com
-4     | Range de IPs | 192.168.1.1-192.168.1.255
-5     | Lista de arquivo | targets.txt
-
 ---
 
 ## 📊 Exemplo de Saída
@@ -129,4 +126,4 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 
 ` ​👨‍⚖️ O autor não se responsabiliza por quaisquer danos ou mau uso desta ferramenta. `
 
-
+` Irá aparecer avisos de syntaxes no começo mais NÃO são erros, apenas AVISOS. `
