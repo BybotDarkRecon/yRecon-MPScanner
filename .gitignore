@@ -216,3 +216,82 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files - Scan results
+scan_*.json
+scan_*.csv
+scan_*.html
+port_scan_*.txt
+scan_*.txt
+*.log
+
+# Secrets and sensitive data
+.env
+*.key
+*.pem
+*.crt
+*.p12
+secrets.txt
+credentials.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Termux specific
+/data/data/com.termux/
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.swp
+*.swo
+*~
+
+# Project specific
+targets.txt
+wordlist.txt
+results/
+output/
+temp/
