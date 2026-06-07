@@ -89,8 +89,14 @@ scan_alvo.csv | CSV | Tabela de portas abertas para Excel
 scan_alvo.html | HTML | Relatório visual interativo com gráficos
 
 ---
+## Exemplo Html:
+![Exemplo Html:](https://married-amber-pq2miwvk.edgeone.app/Screenshot_20260607_014811_Spck%20Editor.jpg)
 
-![Exemplo HTML:](https://only-black-isq37gkd.edgeone.app/Screenshot_20260605_143005_Spck%20Editor.jpg)
+## Exemplo Csv:
+![Exemplo Csv:](https://voluminous-amber-o93ddjip.edgeone.app/Screenshot_20260607_015301_CSV%20Reader.jpg)
+
+## Exemplo Json
+![Exemplo Json:](https://renewed-gray-subcopup.edgeone.app/Screenshot_20260607_014859_Termux.jpg)
 
 ## 🛡️ Funcionalidades de Segurança
 
@@ -118,7 +124,7 @@ scan_alvo.html | HTML | Relatório visual interativo com gráficos
 ***
 ## ⚠️ Aviso Legal
 
-
+### ` Observou algum erro, algum bug, quiser dar sugestões de funções pode enviar tudo para este e-mail: bybot.darkrecon@gmail.com `
 
 
 ` ​⚠️ ATENÇÃO: Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes de segurança autorizados. `
