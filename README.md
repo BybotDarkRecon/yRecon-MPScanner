@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux%20%7C%20Android-green.svg)]()
 
-> **Scanner de portas massivo, ultrarrápido e furtivo. Escaneie 65535 portas em segundos!**
+> **Scanner de portas massivo, ultrarrápido e furtivo. Escaneie 65535 portas em poucos minutos!**
 
 ## ✨ Funcionalidades
 
